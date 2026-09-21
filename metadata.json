@@ -1,0 +1,6 @@
+{
+  "name": "Soviet W-Wave Timer & RPE Tracker",
+  "description": "Timer system and RPE logger for 5-set Soviet W-wave Sandbag and Bodyweight routines with rest period tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
